@@ -27,4 +27,4 @@ Wrecked bot is a discord bot programmed in javascript with discordjs library.
 
 ## Developed By:
 
-- Bot is developed and managed by: [Burhan Chhotaudepur](https://instagram.com/burhanxd)
+- Bot is developed and managed by: [Burhan Chhotaudepur](https://instagram.com/burhan__xd)

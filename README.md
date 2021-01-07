@@ -1,3 +1,9 @@
+<center>
+  <img src="https://images.discordapp.net/avatars/773440427306123266/8e85dbe085f287d707b702b3d748310f.png?size=512">
+  </center>
+
+
+
 # WreckedBot
 
 Wrecked bot is a discord bot programmed in javascript with discordjs library.
